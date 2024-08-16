@@ -1,7 +1,7 @@
 ---
 banner:
   title: Join Us in Creating a Sustainable Future
-  content: At Glocal Limits, we believe in empowering individuals to make a positive impact on the environment. Our carbon compensation plans are designed to help you reduce your carbon footprint while supporting glocal initiatives. Whether you're passionate about sustainable living or looking to inspire others, we have the resources to guide you on this journey
+  content: At Glocal Limits, we believe in empowering individuals to make a positive impact on the environment. Our carbon compensation plans are designed to help you reduce your carbon footprint while supporting glocal initiatives. Whether you're passionate agit bout sustainable living or looking to inspire others, we have the resources to guide you on this journey
   image: /images/banner-art.png
   button:
     label: "Explore Plans"
