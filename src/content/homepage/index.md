@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Every Small Action Counts; Join the Movement for Climate Change!
-  content: Taking action against climate change, even through small steps, can lead to significant collective impact. Each decision we make contributes to a healthier planet and a sustainable future for all. By embracing eco-friendly practices, we not only enhance our quality of life but also inspire others to join the cause. Together, we can create a ripple effect that drives meaningful change
+  title: Join Us in Creating a Sustainable Future
+  content: At Glocal Limits, we believe in empowering individuals to make a positive impact on the environment. Our carbon compensation plans are designed to help you reduce your carbon footprint while supporting glocal initiatives. Whether you're passionate about sustainable living or looking to inspire others, we have the resources to guide you on this journey
   image: /images/banner-art.png
   button:
     label: "Explore Plans"
@@ -92,11 +92,11 @@ workflow:
 
 # call_to_action
 call_to_action:
-  title: Make a Difference!
-  content: Join us in our mission to combat climate change. Every action matters, and together we can create a brighter future. Sign up now to stay informed and be part of the solution!.
-  image: 'https://images.pexels.com/photos/5677279/pexels-photo-5677279.jpeg?auto=compress&cs=tinysrgb&w=430&h=240&dpr=1'
+  title: Bespoke Carbon Footprint Solutions
+  content: Evaluate your carbon footprint compared to the average of your country. Fill in the contact form to start the process.
+  image: '/images/cta.png'
   button:
     enable: true
-    label: "Acting Together!"
+    label: "Let’s Make An Impact Together!"
     link: "/contact"
 ---
